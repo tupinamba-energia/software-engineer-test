@@ -11,7 +11,7 @@ This test's goal is to evaluate some soft skills and hard skills that we value o
 4. Critical Tought
 5. Self Management
 
-### Hard Skills
+### Technical Skills
 1. Debugging
 2. Git versioning
 3. Planning a solution
