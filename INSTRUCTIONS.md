@@ -29,7 +29,7 @@ After this test we may schedule a quick call to talk about questions regarding y
 3. To start this test you can clone this repository locally (please don't fork it).
 4. To start counting the 4 hour period you NEED to commit a blank `README.md` file on the root, right on the beginning of your test.
 5. Keep commiting during your test. We recommend you to do it every 25~30min. Avoid having one big commit on the end of the test, otherwise you may be disqualified.
-6. We don't expect you to finish the project, it's the process that matters. So by the end of the 4 hours just stop, zip your local repository, and send it
+6. We don't expect you to finish the project, it's the process that matters. So by the end of the 4 hours just stop, zip your local repository, and send it to who is following your hirirng process.
 7. Don't use all 4 hours to code. Separate 30 min ~ 1 hour from the end of the 4 hour period to write your `README.md` file with your thoughts, what you expected to do, planning, how to run etc... Remember, **communication** is one of the skills evaluated, you can use anything to explain what are your thoughts, a video (you can use [Loom](https://www.loom.com/) to record your screen and your camera), an audio, a presentation, and/or of course writing, to explain what you planned to do. Anything that makes you feel understandable.
 8. You can/should use any AI to help you, but please comment which one you used on your `README.md`
 9. You need to use Typescript to develop the solution.
