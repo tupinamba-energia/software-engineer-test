@@ -1,6 +1,7 @@
 # 🚀 Engenheiro(a) de Software (Product & Architecture)
 
-Vagas para Pleno, Sênior e Staff
+4 Vagas: Pleno, Sênior e Staff.
+Totalmente Remota.
 
 ## ⚡ Sobre a Tupi
 A **Tupi** é a plataforma de software para mobilidade elétrica líder do mercado brasileiro. Atuamos na vanguarda da sustentabilidade, conectando motoristas e proprietários de eletropostos através de tecnologia de ponta. 
