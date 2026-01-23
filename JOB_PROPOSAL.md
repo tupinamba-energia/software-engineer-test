@@ -42,4 +42,6 @@ Estamos em um momento crítico de evolução técnica. Nosso foco não é apenas
 ### 🚀 Por que se juntar a nós?
 Aqui você terá liberdade técnica para implementar as melhores práticas de mercado e impacto direto na infraestrutura que sustenta o negócio. Se você gosta de resolver problemas complexos de escala e arquitetura, seu lugar é aqui.
 
+A vaga é totalmente remota, temos 1 a 2 encontros por ano para integração. Mas o dia a dia é remoto. Atualmente já temos pessoas trabalhando em diferentes estados do Brasil. 
+
 Envie seu currículo para trabalhe@tupimob.com
