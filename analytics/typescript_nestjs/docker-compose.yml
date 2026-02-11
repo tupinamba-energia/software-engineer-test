@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: typescript_nestjs_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: typescript_nestjs_dev
+    ports:
+      - "5433:5432"
+    volumes:
+      - ts_nest_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d typescript_nestjs_dev"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  ts_nest_postgres_data:
